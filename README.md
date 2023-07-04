@@ -6,4 +6,4 @@ Link for video: https://drive.google.com/drive/folders/1fWKJXY0yWo4WJAtK1cO4RCET
 
 Sample output:
 
-![image](https://github.com/sacchinbhg/image-caption-generator/assets/61612220/281f0b72-feda-4649-b6fe-1d83422e0fd5)
+![Screenshot from 2023-07-04 12-41-34](https://github.com/sacchinbhg/image-caption-generator/assets/61612220/ee5ca2f4-86d7-4c90-b57c-bcafd2edad0f)
